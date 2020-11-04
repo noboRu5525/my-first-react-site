@@ -2,6 +2,7 @@
   "name": "my-first-react-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://noboru5525.github.io/my-first-react-site/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  },
-  "homepage": "https://noboru5525.github.io/my-first-react-site/"
+  }
 }
